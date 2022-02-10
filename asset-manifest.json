@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/khaban/static/css/main.20c32ad5.css",
+    "main.js": "/khaban/static/js/main.974fb76c.js",
+    "index.html": "/khaban/index.html",
+    "main.20c32ad5.css.map": "/khaban/static/css/main.20c32ad5.css.map",
+    "main.974fb76c.js.map": "/khaban/static/js/main.974fb76c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20c32ad5.css",
+    "static/js/main.974fb76c.js"
+  ]
+}
